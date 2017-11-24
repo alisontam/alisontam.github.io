@@ -1,0 +1,205 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+*:before,
+
+
+
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1, h3, h4, h5, p {
+margin-bottom: 22px;
+}
+
+.btn {
+border-radius: 5px;
+display: inline-block;
+margin: 0;
+cursor: pointer;
+  font-weight: 400;
+  letter-spacing: .5px;
+}
+
+.btn-alt {
+font-family: Amatic SC;
+font-size: 36px;
+color: #f3c969;
+padding: 10px 10px;
+}
+
+.hero {
+padding: 22px 80px 66px 40px;
+}
+
+.navigation {
+float: right;
+clear: left;
+}
+.blog {
+float: left;
+clear: right;
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+footer {
+clear: both;
+padding-bottom: 44px;
+padding-top: 44px;
+}
+
+html {
+font-family: Roboto Slab;
+background-color: #eff2f4;
+line-height: 150%;
+}
+a:visited {
+color: #aa8c49;
+}
+h2, h3, h4, h5, h6 {
+font-size: 24px}
+
+nav {
+text-align: right;
+}
+
+.nav li {
+display: inline-block;
+margin: 0 10px;
+vertical-align: top;
+}
+
+.nav li: last-child {
+margin-right:0;
+}
+
+img {
+  background: #eaeaed;
+  border: 1px solid #9799a7;
+  float: left;
+  max-width: 100%;
+  margin: 8px 0 0 20px;
+  padding: 4px;
+}
+
+
+.about {
+width: 70%;
+padding: 30px 30px 30px 30px;
+margin: 0 30px 30px 30px;
+float: right;
+border-radius: 5px;
+color: #0B132B;
+background-color:rgba(255,255,255,0.75);
+}
+a {
+color: #c2a054;
+}
+.container {
+padding: 30px 30px 30px 30px;
+margin: 0 auto;
+font-family: Roboto Slab;
+}
+.description {
+width: 50%;
+padding-left: 30px;
+padding-right: 30px;
+margin: 0 auto;
+float: right;
+}
+header {
+font-family: Roboto Slab;
+margin: 20px 0 20px 0;
+padding: 40px 150px 0 0;
+background-color: #1c2541;
+color: #f3c969;
+}
+.tarokoback {
+font-family: Amatic SC;
+font-size:36px;
+margin: 20px 0 20px 0;
+padding: 40px 150px 0 0;
+background-color: #1c2541;
+color: #f3c969;
+}
+.logo {
+font-family: Amatic SC;
+font-size: 48px;
+padding: 40px 40px 0 0;
+float: left;
+color: #f3c969;
+}
+
+footer {
+font-size: 10px;
+font-family: Amatic SC;
+}
+
+html{
+font-family: Roboto Slab;
+}
+
+h1 {
+font-size: 24px;
+}

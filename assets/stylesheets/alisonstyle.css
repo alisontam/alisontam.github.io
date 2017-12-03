@@ -198,6 +198,11 @@ footer {
 font-size: 10px;
 font-family: Amatic SC;
 }
+.gamesimage {
+	float: right;
+	max-width: 720px;
+	margin: 0 1.5%; 
+}
 
 html{
 font-family: Roboto Slab;

@@ -200,6 +200,7 @@ font-family: Amatic SC;
 }
 .gamesimage {
 	float: left;
+	max-width: 40%;
 	margin: 0 1.5%; 
 }
 

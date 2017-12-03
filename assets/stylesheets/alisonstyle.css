@@ -166,6 +166,7 @@ img {
   border: 1px solid #9799a7;
   float: left;
 	display: block;
+	max-height: 500px;
   margin: 8px 0 0 20px;
   padding: 4px;
 }
@@ -200,10 +201,6 @@ font-family: Amatic SC;
 .gamesimage {
 	float: left;
 	margin: 0 1.5%; 
-}
-
-.gamespage {
-	max-height: 500px;
 }
 
 html{

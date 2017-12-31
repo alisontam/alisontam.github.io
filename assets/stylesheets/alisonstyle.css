@@ -153,11 +153,11 @@ margin: 0 auto;
 font-family: Roboto Slab;
 }
 .description {
-width: 50%;
-padding-right: 30px;
-	padding-left: 30px;
-margin: 0 auto;
-float: right;
+	width: 50%;
+	padding: 30px 30px 30px 30px;
+	margin: 0 auto;
+	float: right;
+	line-height: 150%;
 }
 img {
   background: #eaeaed;

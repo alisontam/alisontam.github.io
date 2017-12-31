@@ -56,10 +56,21 @@ table {
           box-sizing: border-box;
 }
 
+/*uhhh this goes across the entire website i guess?*/
 h1, h3, h4, h5, p {
 margin-bottom: 22px;
 }
 
+h2, h3, h4, h5, h6 {
+font-size: 24px}
+
+html {
+font-family: Roboto Slab;
+background-color: #eff2f4;
+line-height: 200%;
+}
+
+/*buttonssss and navigation*/
 .btn {
 border-radius: 5px;
 display: inline-block;
@@ -76,14 +87,24 @@ color: #f3c969;
 padding: 10px 10px;
 }
 
-.hero {
-padding: 22px 80px 66px 40px;
-}
-
 .navigation {
 float: right;
 clear: left;
 }
+.nav li {
+display: inline-block;
+margin: 0 10px;
+vertical-align: top;
+}
+
+.nav li: last-child {
+margin-right:0;
+}
+
+.hero {
+padding: 22px 80px 66px 40px;
+}
+
 .blog {
 float: left;
 clear: right;
@@ -109,30 +130,6 @@ padding-bottom: 44px;
 padding-top: 44px;
 }
 
-html {
-font-family: Roboto Slab;
-background-color: #eff2f4;
-line-height: 200%;
-}
-
-h2, h3, h4, h5, h6 {
-font-size: 24px}
-
-nav {
-text-align: right;
-}
-
-.nav li {
-display: inline-block;
-margin: 0 10px;
-vertical-align: top;
-}
-
-.nav li: last-child {
-margin-right:0;
-}
-
-
 .about {
 width: 70%;
 padding: 30px 30px 30px 30px;
@@ -140,6 +137,7 @@ margin: 0 30px 30px 30px;
 float: right;
 border-radius: 5px;
 color: #0B132B;
+	line-height: 150%;
 background-color:rgba(255,255,255,0.75);
 }
 /*LINKS*/
@@ -166,7 +164,7 @@ img {
   border: 1px solid #9799a7;
   float: left;
 	display: block;
-	max-height: 400px;
+	max-height: 300px;
 	max-width: 70%;
   margin: 8px 0 0 20px;
   padding: 4px;

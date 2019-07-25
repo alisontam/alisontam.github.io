@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Alison</title>
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Pacifico|Roboto+Slab" rel="stylesheet">
+<link rel="stylesheet" href="assets/stylesheets/alisonstyle.css">
+</head>
+<body>
+<header class="container group">
+	<section class = "container"><h1 class="logo">Alison Tam </h1></section>
+<section class="hero container"><nav class="nav primary-nav">
+<a class ="btn btn-alt" href="writing.html">My writing </a>
+<a class ="btn btn-alt" href="games.html">My games </a>
+<a class ="btn btn-alt" href="resume.html">Hire me </a>
+</section></header>
+<br>
+<section class="container">
+<section><h3>Games</h3>
+<aside class="gamesimage">
+		<img src="screenshotbetrayal.png">
+	</aside>
+	<section class="description">	
+<h3><a href="https://storytam.itch.io/betrayal-on-the-raptors-claw?secret=uLfYB4raVxjRXaiu3fsR1QW02wY">Betrayal On The Raptor's Claw</a></h3>
+I wrote, programmed and produced this game in a month for the GameCamp Game Jam, leading a team of three to create a short visual novel that eventually won the jam's Innovation Prize. The time crunch was definitely a challenge, especially since I had to balance working on the jam with classes and extracurricular student government work, but we ended up with a product that I'm proud of.<br></section>
+	<aside class="gamesimage">
+		<img src="lvdo logo.png">
+	</aside>
+	<section class="description">
+		<h3><a href="https://storytam.itch.io/lesbian-vampire-dating-online">LESBIAN VAMPIRE DATING ONLINE</a></h3>
+		A short game I made for YuriJam 2017. I challenged myself to create interesting and fun characters from just a few lines of description and dialogue, and ended up with a game where you help your friend navigate a vampire-specific online dating app.
+    
+<section><h3>Fiction</h3>
+		<li>My short story, <a href="http://thebooksmugglers.com/2017/06/beauty-glory-thrift-by-alison-tam.html">"Beauty, Glory, Thrift"</a>, was published by the Book Smugglers just this June. It's a science-fiction story about a thief who accidentally downloads something that thinks she's a goddess into her brain. 
+		<li>I wrote the <a href="https://www.kickstarter.com/projects/1321036815/more-kittens">Dragon Diplobrats</a> reskin on Stentor Danielson's More Kittens.    
+    
+    <h3>Nonfiction</h3>
+Here's some of my nonfiction writing from across the internet:
+	<li><a href="https://franwilde.wordpress.com/2017/07/03/book-bites-four-meals-one-chicken-with-alison-tam/">Four Meals, One Chicken</a>, a recipe featured on Fran Wilde's Book Bites.</li>
+	<li><a href="https://www.animefeminist.com/feature-navigating-patriarchal-institutions-personal-power-ooku/">Navigating patriarchal institutions and personal power in Ōoku</a>, an analytical feature on AnimeFeminist.</li>
+	<li><a href="http://www.onshegoes.com/stories/coming-overseas-family/">Coming Out to My Overseas Family</a>, a personal essay at On She Goes.</li>
+	<li><a href="http://www.taiwaneseamerican.org/2019/02/coming-out-to-my-taiwanese-family/">"When I came out to my mom, she was scared for me."</a>, an essay about my sexuality and Taiwanese womanhood at TaiwaneseAmerican.Org.</li>
+
+	<p>  </p>
+
+</section>
+<footer>
+<nav><a href="writing.html">My writing</a><a href="games.html">My games</a><a href="resume.html">Hire me</a></footer>
+</body>
+</html>
